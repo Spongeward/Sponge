@@ -51,7 +51,15 @@ Inside the `<head>` tag, add a new line to insert the script tag for the [Sponge
 
 
 ## Features
-Highlight the key features of Sponge. What makes it unique and useful in an educational context?
+
+Sponge offers three key features that make it valuable:
+
+1. IP Logging and Discord Integration: Sponge logs user IP addresses and can send them to a Discord channel using Webhook.
+
+2. Open Source and Community-Driven: As an open-source project, Sponge encourages collaboration and allows the community to contribute, improving the tool based on needs.
+
+3. Flexibility and Customization: Sponge offers flexibility for users to customize the code, and Upgrade the user interface to meet their specific requirements.
+
 
 ## License
 This project is licensed under the [MIT License](LICENSE.md).

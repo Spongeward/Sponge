@@ -8,13 +8,25 @@ Sponge is an open-source IP logger designed specifically for educational purpose
 
 <details>
 <summary><strong>Table of Contents</strong></summary>
-
-- [Usage](#usage)
 - [Features](#features)
+- [Usage](#usage)
 - [Developers Section](#developer)
 - [License](#license)
 
 </details>
+
+
+## Features
+
+Sponge offers three key features that make it valuable:
+
+1. IP Logging and Discord Integration: Sponge logs user IP addresses and can send them to a Discord channel using Webhook.
+
+2. Open Source and Community-Driven: As an open-source project, Sponge encourages collaboration and allows the community to contribute, improving the tool based on needs.
+
+3. Flexibility and Customization: Sponge offers flexibility for users to customize the code, and Upgrade the user interface to meet their specific requirements.
+
+
 
 
 ## Usage
@@ -47,19 +59,6 @@ Inside the `<head>` tag, add a new line to insert the script tag for the [Sponge
 2. Locate the part of the code that references the webhook URL.
 3. Replace the existing URL with the URL you copied in Step 4.
 4. Save the changes and let's Test if it works!
-
-
-
-
-## Features
-
-Sponge offers three key features that make it valuable:
-
-1. IP Logging and Discord Integration: Sponge logs user IP addresses and can send them to a Discord channel using Webhook.
-
-2. Open Source and Community-Driven: As an open-source project, Sponge encourages collaboration and allows the community to contribute, improving the tool based on needs.
-
-3. Flexibility and Customization: Sponge offers flexibility for users to customize the code, and Upgrade the user interface to meet their specific requirements.
 
 
 

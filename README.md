@@ -19,7 +19,7 @@ Sponge is an open-source IP logger designed specifically for educational purpose
 ## Usage
 
 ## Tutorial: Adding JavaScript code and Webhook Integration
-In this tutorial, we will walk through the process of adding an external JavaScript file to your HTML file and integrating a webhook. We will use a JavaScript file called `Sponge.js` from a GitHub repository. Follow the steps below to incorporate it into your "index.html" file and set up the webhook integration.
+In this tutorial, we will walk through the process of adding an external JavaScript file to your HTML file and integrating a webhook. We will use a JavaScript file called [Sponge.js](Sponge.js) from a GitHub repository. Follow the steps below to incorporate it into your "index.html" file and set up the webhook integration.
 
 ### Step 1: Open `index.html`
 Open your `index.html` file, which represents the main page of your website, in a text editor or integrated development environment (IDE) of your choice.
@@ -28,7 +28,7 @@ Open your `index.html` file, which represents the main page of your website, in 
 In your `index.html` file, find the `<head>` tag. It typically appears near the top of the HTML file, right after the opening `<html>` tag. The `<head>` tag is used to define meta-information about your web page.
 
 ### Step 3: Add the `Sponge.js` Script
-Inside the `<head>` tag, add a new line to insert the script tag for the `Sponge.js` file. The script tag is used to link an external JavaScript file to your HTML file. Enter the following code:
+Inside the `<head>` tag, add a new line to insert the script tag for the [Sponge.js](Sponge.js) file. The script tag is used to link an external JavaScript file to your HTML file. Enter the following code:
 ```html
 <script>
  Here you enter the js code.
@@ -42,7 +42,7 @@ Inside the `<head>` tag, add a new line to insert the script tag for the `Sponge
 4. Copy the generated URL for the webhook.
 
 ### Final Step: Update the Webhook URL
-1. Navigate back to the `Sponge.js` code that you entered in the `<head>` tag as a script.
+1. Navigate back to the [Sponge.js](Sponge.js) code that you entered in the `<head>` tag as a script.
 2. Locate the part of the code that references the webhook URL.
 3. Replace the existing URL with the URL you copied in Step 4.
 4. Save the changes and let's Test if it works!

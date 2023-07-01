@@ -11,6 +11,7 @@ Sponge is an open-source IP logger designed specifically for educational purpose
 
 - [Usage](#usage)
 - [Features](#features)
+- [Developers Section](#developer)
 - [License](#license)
 
 </details>
@@ -59,6 +60,21 @@ Sponge offers three key features that make it valuable:
 2. Open Source and Community-Driven: As an open-source project, Sponge encourages collaboration and allows the community to contribute, improving the tool based on needs.
 
 3. Flexibility and Customization: Sponge offers flexibility for users to customize the code, and Upgrade the user interface to meet their specific requirements.
+
+
+
+## Developers Section
+
+### Whitelist IPs
+
+Description: With the Whitelist IPs feature, you can block specific IP addresses from being logged or shown in Sponge.js. This provides an additional layer of control over the IP logs, allowing you to exclude certain IPs, such as your own, from being displayed.
+
+```javascript
+// Whitelist IPs function
+function whitelistIPs(ipAddresses) {
+  // Logic to block IP addresses from being logged or shown
+}
+```
 
 
 ## License

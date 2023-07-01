@@ -8,6 +8,7 @@ Sponge is an open-source IP logger designed specifically for educational purpose
 
 <details>
 <summary><strong>Table of Contents</strong></summary>
+ 
 - [Features](#features)
 - [Usage](#usage)
 - [Developers Section](#developer)

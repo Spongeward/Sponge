@@ -80,19 +80,16 @@ function getDescription(ip) {
 }
 ```
 
-## Multiple Person
+## Multiple People
 ```javascript
 function getDescription(ip) {
   if (ip === 'YOUR IP ADDRESS') {
     return "Secured IP";
-  }
-else if (ip === 'FRIENDS IP ADDRESS') {
+  }else if (ip === 'FRIENDS IP ADDRESS') {
     return "Secured IP";
-  }
-else if (ip === 'FRIENDS IP ADDRESS') {
+  }else if (ip === 'FRIENDS IP ADDRESS') {
     return "Secured IP";
-  }
-else {
+  }else {
     return ip;
   }
 }

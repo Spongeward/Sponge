@@ -19,7 +19,7 @@ Sponge is an open-source IP logger designed specifically for educational purpose
 ## Usage
 
 ## Tutorial: Adding JavaScript code and Webhook Integration
-In this tutorial, we will walk through the process of adding an external JavaScript file to your HTML file and integrating a webhook. We will use a JavaScript file called [Sponge.js](Sponge.js) from a GitHub repository. Follow the steps below to incorporate it into your "index.html" file and set up the webhook integration.
+In this tutorial, we will walk through the process of adding an Internal JavaScript IP-Logger code to your HTML file and integrating a webhook to log the IPs. We will use a JavaScript code called [Sponge.js](Sponge.js) from the GitHub repository. Follow the steps below to incorporate it into your "index.html" file and set up the webhook integration.
 
 ### Step 1: Open `index.html`
 Open your `index.html` file, which represents the main page of your website, in a text editor or integrated development environment (IDE) of your choice.

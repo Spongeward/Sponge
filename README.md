@@ -1,4 +1,4 @@
-# Project Name
+# Sponge - Educational IP Logger
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.md)
 
 

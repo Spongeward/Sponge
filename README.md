@@ -41,11 +41,11 @@ Open your `index.html` file, which represents the main page of your website, in 
 ### Step 2: Locate the `<head>` Tag
 In your `index.html` file, find the `<head>` tag. It typically appears near the top of the HTML file, right after the opening `<html>` tag. The `<head>` tag is used to define meta-information about your web page.
 
-### Step 3: Add the `Sponge.js` Script
-Inside the `<head>` tag, add a new line to insert the script tag for the [Sponge.js](Sponge.js) file. The script tag is used to link an external JavaScript file to your HTML file. Enter the following code:
+### Step 3: Add the [Sponge.js](Sponge.js) Script
+Inside the `<head>` tag, add a new line to insert the script tag for the [Sponge.js](Sponge.js) code. The script tag is used to link an internal JavaScript code to your HTML file. Enter the following code:
 ```html
 <script>
- Here you enter the js code.
+ Here you enter the Sponge.js code.
 </script>
 ```
 

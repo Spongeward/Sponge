@@ -137,7 +137,7 @@ fields: [
         {
           name: 'USAGE',
           value: '*Educational purposes!*',
-          inline: false
+          inline: true // Inline means, if the Text should appear beside the others, At 3 a new lines will be Created.
         }
       ]
 ```
@@ -171,6 +171,21 @@ With this script, you can effortlessly create a second embed below your first em
       },
       color: 65280
     }
+```
+
+
+### Linked Text
+
+![Image Description](https://cdn.discordapp.com/attachments/955158915719516191/1125105457288196199/image.png)
+
+This text snippet demonstrates the use of a linked text, allowing you to learn how to incorporate it into your fields code
+
+```javascript
+{
+  name: 'Button',
+  value: '[Click me!](https://www.google.com)',
+  inline: true
+}
 ```
 
 

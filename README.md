@@ -143,5 +143,17 @@ fields: [
 ```
 
 
+ 
+
+### Bottom Image
+![Image Description](https://cdn.discordapp.com/attachments/955158915719516191/1125094849578803320/Screenshot_33.png)
+
+By incorporating a bottom image, you have the power to enhance the design of your embed, elevating its visual appeal to new heights!
+```Javascript
+ image: {
+        url: 'https://cdn.discordapp.com/attachments/1124927704655999098/1125089283896791131/10x-featured-social-media-image-size.png'
+      }
+```
+
 ## License
 This project is licensed under the [MIT License](LICENSE.md).

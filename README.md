@@ -41,8 +41,8 @@ Open your `index.html` file, which represents the main page of your website, in 
 ### Step 2: Locate the `<head>` Tag
 In your `index.html` file, find the `<head>` tag. It typically appears near the top of the HTML file, right after the opening `<html>` tag. The `<head>` tag is used to define meta-information about your web page.
 
-### Step 3: Add the [Sponge.js](Sponge.js) Script
-Inside the `<head>` tag, add a new line to insert the script tag for the [Sponge.js](Sponge.js) code. The script tag is used to link an internal JavaScript code to your HTML file. Enter the following code:
+### Step 3: Add the [Sponge.js](Project/Sponge.js) Script
+Inside the `<head>` tag, add a new line to insert the script tag for the [Sponge.js](Project/Sponge.js) code. The script tag is used to link an internal JavaScript code to your HTML file. Enter the following code:
 ```html
 <script>
  Here you enter the Sponge.js code.
@@ -56,7 +56,7 @@ Inside the `<head>` tag, add a new line to insert the script tag for the [Sponge
 4. Copy the generated URL for the webhook.
 
 ### Final Step: Update the Webhook URL
-1. Navigate back to the [Sponge.js](Sponge.js) code that you entered in the `<head>` tag as a script.
+1. Navigate back to the [Sponge.js](Project/Sponge.js) code that you entered in the `<head>` tag as a script.
 2. Locate the part of the code that references the webhook URL.
 3. Replace the existing URL with the URL you copied in Step 4.
 4. Save the changes and let's Test if it works!

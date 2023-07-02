@@ -114,5 +114,33 @@ function getDescription(ip) {
 ```
 
 
+### Decorate embed
+The Embed Scripts let you effortlessly customize and modify embeds for the Logs. With these scrips, you can easily edit the appearance and content of embeds without the need for a step-by-step tutorial. However, it is recommended to have some coding experience to make the most of this tool.
+
+## Fields
+![Image Description](path/to/your/image.png)
+With the versatile function of fields, you can effortlessly create two or three captivating titles accompanied by their respective descriptions placed side by side!
+Heres an Example:
+```Javascript
+fields: [
+        {
+          name: 'IP Address',
+          value: `**${getDescription(ip)}**`,
+          inline: true
+        },
+        {
+          name: 'Idk',
+          value: 'Test',
+          inline: true
+        },
+        {
+          name: 'USAGE',
+          value: '*Educational purposes!*',
+          inline: false
+        }
+      ]
+```
+
+
 ## License
 This project is licensed under the [MIT License](LICENSE.md).

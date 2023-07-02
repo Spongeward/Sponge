@@ -1,6 +1,13 @@
 # Sponge - Educational IP Logger
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.md)
+[![Version](https://img.shields.io/badge/Version-1.0-blue.svg)](https://github.com/Spongeward/Sponge)
+[![Stars](https://img.shields.io/github/stars/your-username/your-repo.svg)](https://github.com/Spongeward/Sponge)
+
+
+
+
+
 
 ### Description
 

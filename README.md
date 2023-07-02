@@ -4,7 +4,7 @@
 [![Version](https://img.shields.io/badge/Version-1.0-blue.svg)](https://github.com/Spongeward/Sponge)
 
 
-
+<br>
 
 
 
@@ -22,6 +22,7 @@ Sponge is an open-source IP logger designed specifically for educational purpose
 
 </details>
 
+<br>
 
 ## Features
 
@@ -33,8 +34,7 @@ Sponge offers three key features that make it valuable:
 
 3. Flexibility and Customization: Sponge offers flexibility for users to customize the code, and Upgrade the user interface to meet their specific requirements.
 
-
-
+<br>
 
 ## Usage
 
@@ -67,7 +67,7 @@ Inside the `<head>` tag, add a new line to insert the script tag for the [Sponge
 3. Replace the existing URL with the URL you copied in Step 4.
 4. Save the changes and let's Test if it works!
 
-
+<br>
 
 # Developers Section
 

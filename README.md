@@ -17,7 +17,7 @@ Sponge is an open-source IP logger designed specifically for educational purpose
  
 - [Features](#features)
 - [Usage](#usage)
-- [Developers Section](#developer)
+- [Developers Section](#developers-section)
 - [License](#license)
 
 </details>
@@ -69,9 +69,9 @@ Inside the `<head>` tag, add a new line to insert the script tag for the [Sponge
 
 
 
-## Developers Section
+# Developers Section
 
-### Whitelist IPs
+## Whitelist IPs
 
 Description: With the Whitelist IPs feature, you can block specific IP addresses from being logged or shown in Sponge.js. This provides an additional layer of control over the IP logs, allowing you to exclude certain IPs, such as your own, from being displayed.
 
@@ -190,5 +190,5 @@ This text snippet demonstrates the use of a linked text, allowing you to learn h
 
 
 
-## License
+# License
 This project is licensed under the [MIT License](LICENSE.md).

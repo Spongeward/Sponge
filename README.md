@@ -155,5 +155,25 @@ By incorporating a bottom image, you have the power to enhance the design of you
       }
 ```
 
+
+### Second embed
+![Image Description](https://cdn.discordapp.com/attachments/955158915719516191/1125098953831088189/Screenshot_34.png)
+
+With this script, you can effortlessly create a second embed below your first embed, allowing you to add interactive elements such as clickable buttons. Enhance the user experience and provide additional functionality with just a few lines of code!
+
+![Image Description](https://cdn.discordapp.com/attachments/955158915719516191/1125099570377007115/image.png)
+```javascript
+    {
+      title: 'Second Embed',
+      description: 'This is the second embed with only a title and footer.',
+      footer: {
+        text: `footer`
+      },
+      color: 65280
+    }
+```
+
+
+
 ## License
 This project is licensed under the [MIT License](LICENSE.md).

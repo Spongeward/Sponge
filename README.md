@@ -71,8 +71,8 @@ Inside the `<head>` tag, add a new line to insert the script tag for the [Sponge
 
 # Developers Section
 
-## Whitelist IPs
 
+## Whitelist IPs
 Description: With the Whitelist IPs feature, you can block specific IP addresses from being logged or shown in Sponge.js. This provides an additional layer of control over the IP logs, allowing you to exclude certain IPs, such as your own, from being displayed.
 
 ### One Person

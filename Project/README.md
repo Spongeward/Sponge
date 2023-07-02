@@ -11,7 +11,7 @@ Sponge is an open-source IP logger designed specifically for educational purpose
  
 - [Features](#features)
 - [Usage](#usage)
-- [Developers Section](#developer)
+- [Developers Section](#developr)
 - [License](#license)
 
 </details>

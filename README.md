@@ -75,7 +75,7 @@ Inside the `<head>` tag, add a new line to insert the script tag for the [Sponge
 
 Description: With the Whitelist IPs feature, you can block specific IP addresses from being logged or shown in Sponge.js. This provides an additional layer of control over the IP logs, allowing you to exclude certain IPs, such as your own, from being displayed.
 
-## One Person
+### One Person
 ```javascript
 function getDescription(ip) {
   // Check if the input IP address is equal to the value of the IP address you entered below
@@ -90,7 +90,7 @@ function getDescription(ip) {
 
 ```
 
-## Multiple People
+### Multiple People
 ```javascript
 function getDescription(ip) {
   // Check if the input IP address is equal to the value of your IP address
@@ -114,11 +114,12 @@ function getDescription(ip) {
 ```
 
 
-### Decorate embed
+## Decorate embed
 The Embed Scripts let you effortlessly customize and modify embeds for the Logs. With these scrips, you can easily edit the appearance and content of embeds without the need for a step-by-step tutorial. However, it is recommended to have some coding experience to make the most of this tool.
 
-## Fields
+### Fields
 ![Image Description](https://cdn.discordapp.com/attachments/955158915719516191/1125092996652744754/Screenshot_32.png)
+
 With the versatile function of fields, you can effortlessly create two captivating titles accompanied by their respective descriptions placed side by side!
 Heres an Example:
 ```Javascript

@@ -78,27 +78,39 @@ Description: With the Whitelist IPs feature, you can block specific IP addresses
 ## One Person
 ```javascript
 function getDescription(ip) {
-  if (ip === 'YOUR IP ADDRESS') {
+  // Check if the input IP address is equal to the value of the IP address you entered below
+  if (ip === 'ENTER YOUR IP ADDRESS HERE') {
+    // If the input IP matches the predefined secure IP, return "Secured IP"
     return "Secured IP";
   } else {
+    // If the IP does not match any of the predefined secure IP addresses, return it as Diffrent user.
     return ip;
   }
 }
+
 ```
 
 ## Multiple People
 ```javascript
 function getDescription(ip) {
+  // Check if the input IP address is equal to the value of your IP address
   if (ip === 'YOUR IP ADDRESS') {
+    // If the input IP matches your IP address, return "Secured IP"
     return "Secured IP";
-  }else if (ip === 'FRIENDS IP ADDRESS') {
+  } else if (ip === 'FRIENDS IP ADDRESS') {
+    // Check if the input IP address is equal to the value of your friend's IP address
+    // If the input IP matches your friend's IP address, return "Secured IP"
     return "Secured IP";
-  }else if (ip === 'FRIENDS IP ADDRESS') {
+  } else if (ip === 'FRIENDS IP ADDRESS') {
+    // Check if the input IP address is equal to the value of your friend's IP address
+    // If the input IP matches your friend's IP address, return "Secured IP"
     return "Secured IP";
-  }else {
+  } else {
+    // If the IP does not match any of the predefined secure IP addresses, return it as Diffrent user.
     return ip;
   }
 }
+
 ```
 
 

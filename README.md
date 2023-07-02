@@ -98,6 +98,3 @@ function getDescription(ip) {
 
 ## License
 This project is licensed under the [MIT License](LICENSE.md).
-
-
-![Repository Thumbnail](https://media.discordapp.net/attachments/955158915719516191/1124859679433039953/Screenshot_20230702-014800_Chrome.jpg)

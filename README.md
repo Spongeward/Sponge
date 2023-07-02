@@ -113,6 +113,7 @@ function getDescription(ip) {
 
 ```
 
+<br>
 
 ## Decorate embed
 The Embed Scripts let you effortlessly customize and modify embeds for the Logs. With these scrips, you can easily edit the appearance and content of embeds without the need for a step-by-step tutorial. However, it is recommended to have some coding experience to make the most of this tool.
@@ -120,8 +121,6 @@ The Embed Scripts let you effortlessly customize and modify embeds for the Logs.
 ### Fields
 ![Image Description](https://cdn.discordapp.com/attachments/955158915719516191/1125092996652744754/Screenshot_32.png)
 
-With the versatile function of fields, you can effortlessly create two captivating titles accompanied by their respective descriptions placed side by side!
-Heres an Example:
 ```Javascript
 fields: [
         {
@@ -142,19 +141,20 @@ fields: [
       ]
 ```
 
-
- 
+<br>
 
 ### Bottom Image
 ![Image Description](https://cdn.discordapp.com/attachments/955158915719516191/1125094849578803320/Screenshot_33.png)
 
 By incorporating a bottom image, you have the power to enhance the design of your embed, elevating its visual appeal to new heights!
+
 ```Javascript
  image: {
         url: 'https://cdn.discordapp.com/attachments/1124927704655999098/1125089283896791131/10x-featured-social-media-image-size.png'
       }
 ```
 
+<br>
 
 ### Second embed
 ![Image Description](https://cdn.discordapp.com/attachments/955158915719516191/1125098953831088189/Screenshot_34.png)
@@ -173,12 +173,15 @@ With this script, you can effortlessly create a second embed below your first em
     }
 ```
 
+<br>
 
 ### Linked Text
 
-![Image Description](https://cdn.discordapp.com/attachments/955158915719516191/1125105457288196199/image.png)
+![Image Description](https://cdn.discordapp.com/attachments/955158915719516191/1125109331537449011/image.png)
 
-This text snippet demonstrates the use of a linked text, allowing you to learn how to incorporate it into your fields code
+This code snippet allows you to learn how to create linked text. For instance, I have used it in the fields code as an example.
+
+![Image Description](https://cdn.discordapp.com/attachments/955158915719516191/1125105457288196199/image.png)
 
 ```javascript
 {
